@@ -112,8 +112,10 @@ if __name__ == "__main__":
 *Screenshot showing the configuration settings in main.py*
 
 ### Demo Video
-https://github.com/yourusername/vjudge-transfer/raw/main/VJauto.mp4
-
+<video width="640" height="360" controls>
+  <source src="https://github.com/rayedriasat/vjudge-transfer/raw/refs/heads/master/VJauto.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 *Video demonstration showing the complete process of copying and submitting solutions*
 
 ## How It Works

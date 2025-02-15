@@ -1,0 +1,23 @@
+# User-specific files
+soldata.json
+newdata.json
+__pycache__/
+*.pyc
+
+# Chrome and ChromeDriver
+chrome-win64/
+chromedriver-win64/
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
